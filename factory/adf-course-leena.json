@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-leena",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72c02f68-7814-4e6b-9d39-1119a8283e02",
+		"tenantId": "d4963ce2-af94-4122-95a9-644e8b01624d"
+	}
+}
